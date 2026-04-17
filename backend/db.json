@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2t.png",
+      "price": "500",
+      "category": "women's clothing",
+      "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+      "id": "zQo9EW6olxU"
+    },
+    {
+      "title": "Solid Gold Petite Micropave",
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_t.png",
+      "price": "300",
+      "category": "jewelery",
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "id": "Qc-LwN68Ta4"
+    }
+  ],
+  "users": [
+    {
+      "username": "akashm01",
+      "email": "akashm.codes@gmail.com",
+      "password": "1234",
+      "id": "yI_FdpvMno4",
+      "isAdmin": true,
+      "cart": []
+    },
+    {
+      "username": "akash32bit",
+      "email": "akash.bamun2001@gmail.com",
+      "password": "1234",
+      "id": "eVerLgTr2N0",
+      "isAdmin": false,
+      "cart": [
+        {
+          "product": {
+            "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+            "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2t.png",
+            "price": "500",
+            "category": "women's clothing",
+            "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+            "id": "zQo9EW6olxU"
+          },
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "carts": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
