@@ -4,9 +4,6 @@ A modern, fully responsive e-commerce application built with React and Redux Too
 
 ---
 
-
----
-
 ## 📸 Screenshots
 
 ### 🏠 Home Page (Guest View)
