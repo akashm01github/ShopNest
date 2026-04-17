@@ -9,28 +9,28 @@ A modern, fully responsive e-commerce application built with React and Redux Too
 ### 🏠 Home Page (Guest View)
 > When a user is **not logged in**, only the Home page is visible with a **Sign In** option.
 
-![Home Page Guest View](./screenshots/home-guest.png)
+![Home Page Guest View](https://github.com/akashm01github/ShopNest/blob/main/frontend/src/assets/myImg/pic-1.png)
 
 ---
 
 ### 🔐 After Login — Add to Cart
 > Once logged in, users can **browse products** and **add items to their cart**.
 
-![After Login Cart](./screenshots/after-login-cart.png)
+![After Login Cart](https://github.com/akashm01github/ShopNest/blob/main/frontend/src/assets/myImg/pic-3.png)
 
 ---
 
 ### 🛡️ Admin Panel — Manage Products
 > The **Admin** role has exclusive access to **add, edit, and delete products**.
 
-![Admin Panel](./screenshots/admin-panel.png)
+![Admin Panel](https://github.com/akashm01github/ShopNest/blob/main/frontend/src/assets/myImg/pic-5.png)
 
 ---
 
 ### 🛒 Cart Page
 > Users can **view, update quantities, and remove items** from their cart before checkout.
 
-![Cart Page](./screenshots/cart-page.png)
+![Cart Page](https://github.com/akashm01github/ShopNest/blob/main/frontend/src/assets/myImg/pic-4.png)
 
 ---
 
